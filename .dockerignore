@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+quant_env/ 
+.git/
+.gitignore
+.DS_Store
+*.log
+Dockerfile
